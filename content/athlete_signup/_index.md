@@ -10,9 +10,10 @@ title = "Athlete Signup" #_
 <ol>
     <li>Check out our <a href="/calendar">Calendar</a> to see if practices fit your schedule.</li>
     <br>
-    <li>Complete an <a href="/docs/ARF.pdf">Athlete Registration Form (ARF)</a><br></li>
+    <li>Please <a href="mailto:soundathleticspierce@gmail.com">contact us directly</a>. (Sign up link is coming soon)</li>
+    <!-- <li>Complete an <a href="/docs/ARF.pdf">Athlete Registration Form (ARF)</a><br></li> -->
 </ol>
-<blockquote>If you have any questions email us at <a href="mailto:soundathleticspierce@gmail.com">soundathleticspierce@gmail.com</a> or speak to Angela, our Program Coordinator, at (253) 722-8027</blockquote>
+<blockquote>If you have any questions email us at <a href="mailto:soundathleticspierce@gmail.com">soundathleticspierce@gmail.com</a>.</blockquote>
 </article>
 <article class="what-sports">
 <h1>What Sports? When?</h1>
@@ -22,7 +23,7 @@ over.</p>
 <article class="sport-season">
     <div>Fall</div>
     <div><i class="icon-right-bold"></i></div>
-    <div>Bowling, Powerlifting (2025)</div>
+    <div>Bowling, Powerlifting</div>
 </article>
 <article class="sport-season">
     <div>Winter</div>

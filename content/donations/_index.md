@@ -31,4 +31,6 @@ Or send donations directly to:<br>
 **3801 N 27th Street #6921**<br/>
 **Tacoma, WA 98407-9998**
 
+Sound Athletics is a 501C3. EIN 91-2179796
+
 </div>

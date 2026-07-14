@@ -16,7 +16,7 @@ No experience is required; training is provided by Special Olympics Washington.
 rules of the game and make them aware of the foul line. Assist with technique and tips to help them achieve 
 success. 
 
-**Powerlifting** (Fall 2025) 
+**Powerlifting** (Fall) 
 
 **Basketball** (Winter) – Moving athletes through an initial skills assessment process. Train athletes in dribbling, 
 passing, and shooting drills. Teach athletes strategies of the game appropriate to their age and ability level.
@@ -32,5 +32,4 @@ track to field events. Teach athletes proper form for field events.
 
 1. Check out our [Calendar](../calendar) to see if our practices fit your schedule. [Email us](mailto:soundathleticspierce@gmail.com) with any questions
 
-2. Complete a <a href="../docs/SOWA_Coaching_Registration_Requirements.pdf" target="_blank">SOWA Coaching Registration Form</a>. 
->>Make sure to use the SOWA Good Deed Code when filling out your form **(45cri8)**
+2. Complete a <a href="https://portals.specialolympics.org/" target="_blank">Special Olympics Portal</a>, and select "Create an Account"

@@ -33,10 +33,10 @@ About Basketball (coming soon)
 * **Unified Teams** - 2 athletes and 2 peer partners; each individual bowls 1 frame in sequence while alternating lanes between frames
 
 ## Cheerleading {#cheerleading}
-About Cheerleading
+About Cheerleading (coming soon)
 
 ## Track & Field {#track-and-field}
-About Track & Field (coming soon)
+Find out more about Track and Field
 
 ## Powerlifting {#powerlifting}
 About Powerlifting (coming soon)
