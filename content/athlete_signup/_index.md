@@ -36,7 +36,7 @@ over.</p>
 </article>
 </article>
 
-<h3>Have any questions about the different sports? </h3>
+<h3>Have any questions about the different sports ? </h3>
 
 <p>Visit the <a href="/sports/">Sports page</a> to learn more about all sports</p>
 
