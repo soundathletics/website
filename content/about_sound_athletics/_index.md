@@ -5,6 +5,8 @@ title = "About Sound Athletics" #_
 
 +++
 
+# About Sound Athletics
+
 ## Our Mission
 The mission of Sound Athletics is to provide a fun and safe environment for athletes of all abilities, ages 8 and over, to participate in athletic endeavors with no pay-to-play.
 
